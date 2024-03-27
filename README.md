@@ -9,6 +9,7 @@
   - Introduction to Computer Science with Python (Parts 1 & 2) (2021)
   - Big Data (2021)
   - Introduction to Machine Learning with Python (2023)
+  - Fundamentals of Statistics, Introduction to R Software, and Machine Learning (2023)
 
 ### 💼 Professional Training
 - **Google Data Analytics** (2022)
