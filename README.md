@@ -26,6 +26,19 @@
 - Effective **communication and collaboration** skills with cross-functional teams
 - Quick learner, motivated by staying updated on the latest advances in **Data Science**
 
+
+### 🌟 Soft Skills:
+
+- Communication 💬
+- Problem-Solving 🔍
+- Critical Thinking 💭
+- Business Acumen 💼
+- Adaptability and Continuous Learning 🔄
+- Ethical Judgment and Integrity ⚖️
+- Empathy and User-Centered Design 👥
+- Confidence and Decision-Making 🎯
+- Creativity 💡
+
 ### 📚 Courses
 ### Alura
 - **Beginning Programming Career & Education** (2019)
