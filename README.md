@@ -2,6 +2,15 @@
 
 ### Welcome to My GitHub Profile!
 
+### Repositories
+
+- [Avengers Sentimental Analysis](https://github.com/diguitarrista/Avengers-Sentimental-Analysis-ML-Python) Libraries: TextBlob, VADER, and RoBERTa.
+- [Carbon Emission EDA ML](https://github.com/diguitarrista/Carbon-Emission-EDA-ML-Python) ML: Linear Regression, Random Forest, and GBM models.
+- [Weather EDA ML](https://github.com/diguitarrista/Weather-EDA-ML-Python) ML: Linear Regression (Box-Cox, Stepwise), PCA, Logistic Regression, K-fold
+- [Netflix EDA](https://github.com/diguitarrista/Netflix-Titles-EDA-Python) Libraries: Pandas, Matplotlib, Seaborn, Scikit-learn, TextBlob
+- [Exoplanets EDA ML](https://github.com/diguitarrista/Exoplanets-EDA-ML-Python) ML: Random Forest.
+- [Python](https://github.com/diguitarrista/Python-Basics-Projects)
+- 
 ### 🎓 Academic Background
 - **MBA in Data Science and Analytics** from the University of São Paulo (2023 - 2024)
 - **Bachelor's Degree in Physics** from the University of São Paulo (2012 - 2017)
