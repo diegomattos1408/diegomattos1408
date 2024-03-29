@@ -6,16 +6,25 @@
 
 - [Avengers Sentimental Analysis](https://github.com/diguitarrista/Avengers-Sentimental-Analysis-ML-Python)
   - Libraries: TextBlob, VADER, and RoBERTa.
+- [Bitcoin EDA ML](https://github.com/diguitarrista/Bitcoin_historical-EDA-ML-Python)
+  - Machine Learning: Neural Network: Long short-term memory
+  - Libraries: Pandas, Yfinance, Matplotlib, Scikit-learn, Numpy, Tensor-Flow
 - [Carbon Emission EDA ML](https://github.com/diguitarrista/Carbon-Emission-EDA-ML-Python)
   - Machine Learning: Linear Regression, Random Forest, and GBM models.
-- [Weather EDA ML](https://github.com/diguitarrista/Weather-EDA-ML-Python)
-  - Machine Learning: Linear Regression (Box-Cox, Stepwise), PCA, Logistic Regression, K-fold
-- [Netflix EDA](https://github.com/diguitarrista/Netflix-Titles-EDA-Python)
-  - Libraries: Pandas, Matplotlib, Seaborn, Scikit-learn, TextBlob
+  - Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn.
+- [Dengue EDA ML](https://github.com/diguitarrista/Dengue-EDA-ML-Python)
+  - Statistical Models: Poisson and Negative Binomial.
+  - Libraries: Pandas, Numpy, Matplotlib, Statsmodels, Scipy.
 - [Exoplanets EDA ML](https://github.com/diguitarrista/Exoplanets-EDA-ML-Python)
   - Machine Learning: Random Forest.
+  - Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn.
+- [Netflix EDA](https://github.com/diguitarrista/Netflix-Titles-EDA-Python)
+  - Libraries: Pandas, Matplotlib, Seaborn, Scikit-learn, TextBlob.
 - [Python](https://github.com/diguitarrista/Python-Basics-Projects)
   - Python Basics and OOP.
+- [Weather EDA ML](https://github.com/diguitarrista/Weather-EDA-ML-Python)
+  - Machine Learning: Linear Regression (Box-Cox, Stepwise), PCA, Logistic Regression, Random Forest, XGBoost, Neural Network, K-fold.
+  - Libraries: Pandas, Matplotlib, Seaborn, Factor_analyzer, Pingouin, Statsmodels, Scikit-learn, Scipy, Tensor-Flow.
   
 ### 🎓 Academic Background
 - **MBA in Data Science and Analytics** from the University of São Paulo (2023 - 2024)
