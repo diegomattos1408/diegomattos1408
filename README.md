@@ -17,6 +17,7 @@
   - Libraries: Pandas, Numpy, Matplotlib, Statsmodels, Scipy.
 - [DataSUS EDA](https://github.com/diguitarrista/DataSUS-EDA-Python)
   - Libraries: Pandas, Numpy, Matplotlib, Dash, GeoPandas
+  - Dashboard: Dash and BI
 - [Exoplanets EDA ML](https://github.com/diguitarrista/Exoplanets-EDA-ML-Python)
   - Machine Learning: Random Forest.
   - Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn.
