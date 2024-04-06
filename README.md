@@ -15,7 +15,7 @@
 - [Dengue EDA ML](https://github.com/diguitarrista/Dengue-EDA-ML-Python)
   - Statistical Models: Poisson and Negative Binomial.
   - Libraries: Pandas, Numpy, Matplotlib, Statsmodels, Scipy.
-- [DataSUS EDA](https://github.com/diguitarrista/DataSUS-EDA-Python)
+- [DataSUS EDA Dashboard](https://github.com/diguitarrista/DataSUS-EDA-Python)
   - Libraries: Pandas, Numpy, Matplotlib, Dash, GeoPandas, Pyspark
   - Dashboards: Dash and BI
 - [Exoplanets EDA ML](https://github.com/diguitarrista/Exoplanets-EDA-ML-Python)
