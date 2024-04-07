@@ -9,6 +9,7 @@
 - [Bitcoin EDA ML](https://github.com/diguitarrista/Bitcoin_historical-EDA-ML-Python)
   - Machine Learning: Neural Network: Long short-term memory
   - Libraries: Pandas, Yfinance, Matplotlib, Scikit-learn, Numpy, Tensor-Flow
+  - Dashboard: BI
 - [Carbon Emission EDA ML](https://github.com/diguitarrista/Carbon-Emission-EDA-ML-Python)
   - Machine Learning: Linear Regression, Random Forest, and GBM models.
   - Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn.
