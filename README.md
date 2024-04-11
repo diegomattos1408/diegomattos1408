@@ -66,6 +66,7 @@
 - Empathy and User-Centered Design 👥
 - Confidence and Decision-Making 🎯
 - Creativity 💡
+- Leadership 👊
 
 ### 📚 Courses
 ### Alura
