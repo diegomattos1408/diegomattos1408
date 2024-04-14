@@ -47,14 +47,12 @@
 - **IBM Data Science** (2023)
 
 ### 🛠 Skills & Expertise
-- Fluent in **English**
-- Proficient in **Python & R** for data analysis and visualization
-- Experienced in **data exploration, cleaning, techniques, and engineering**
-- Strong understanding of **statistical concepts and Machine Learning algorithms**
-- Familiar with **data visualization tools** like Tableau, Power BI, and Matplotlib
-- Excellent at **problem-solving** and working with large datasets using MySQL, MongoDB, Apache Airflow
-- Effective **communication and collaboration** skills with cross-functional teams
-- Quick learner, motivated by staying updated on the latest advances in **Data Science**
+- **Programming Languages**: Python, R, JavaScript, HTML, CSS;
+- **Libraries**: Pandas, Numpy, Matplotlib, Seaborn, Dash Sklearn, Scipy, Statsmodel, TensorFlow
+- **Big Data**: ETL/ELT Pipeline, MySQL, MongoDB, Apache Airflow;
+- **Data Science**: Data Analysis, Data Mining, Data Cleaning, Data Wrangling, Data Viz: Tableau, Power BI;
+- **Machine Learning**: Linear Regression, PCA, Factor Analysis, Clustering, Trees, Networks, Ensemble Models, Neural Networks, Text Mining, Sentiment Analysis, and NLP;
+- **Extra**: Fluent English, Excel, Scrum, Analytics, and Risk Management.
 
 
 ### 📚 Courses
