@@ -1,4 +1,4 @@
-![capa](capa.jpeg)
+![capa](capa.png)
 
 ### Hi there 👋, I'm Diego de Mattos
 
