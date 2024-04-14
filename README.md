@@ -64,6 +64,9 @@
 ### 📫 You Can Reach Me
 - **LinkedIn:** [Diego de Mattos](https://www.linkedin.com/in/diego-de-mattos-166417167/)
 - **Email:** diego.mattos.candido@alumni.usp.br
+
+![capa](footer.png)
+
 ---
 
 Thank you for visiting my profile! I'm passionate about unlocking the potential of data to solve complex problems and drive innovation. Feel free to reach out if you're interested in collaborating on projects or sharing insights.
