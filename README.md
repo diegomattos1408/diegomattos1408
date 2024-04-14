@@ -1,3 +1,5 @@
+![capa](capa.jpeg)
+
 ### Hi there 👋, I'm Diego de Mattos
 
 ### Welcome to My GitHub Profile!
