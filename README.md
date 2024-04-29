@@ -60,6 +60,8 @@
 - **Beginning Programming Career & Education** (2019)
 - **Front-end Formation and JavaScript Developer Career** (2019)
 - **First Steps with Data Engineering** (2024)
+- **First Steps with SQL** (2024)
+- **Data Science** (2024)
 
 ### 📫 You Can Reach Me
 - **LinkedIn:** [Diego de Mattos](https://www.linkedin.com/in/diego-de-mattos-166417167/)
