@@ -28,6 +28,8 @@
   - Libraries: Pandas, Matplotlib, Seaborn, Scikit-learn, TextBlob.
 - [Python](https://github.com/diguitarrista/Python-Basics-Projects)
   - Python Basics and OOP.
+- [SQL](https://github.com/diegomattos1408/SQL-Queries)
+  - SQL Queries
 - [Weather EDA ML](https://github.com/diguitarrista/Weather-EDA-ML-Python)
   - Machine Learning: Linear Regression (Box-Cox, Stepwise), PCA, Logistic Regression, Random Forest, XGBoost, Neural Network, K-fold.
   - Libraries: Pandas, Matplotlib, Seaborn, Factor_analyzer, Pingouin, Statsmodels, Scikit-learn, Scipy, Tensor-Flow.
