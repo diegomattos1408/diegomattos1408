@@ -49,7 +49,7 @@
 - **IBM Data Science** (2023)
 
 ### 🛠 Skills & Expertise
-- **Programming Languages**: Python, R, JavaScript, HTML, CSS;
+- **Programming Languages**: Python, R, SQL, JavaScript, HTML, CSS;
 - **Libraries**: Pandas, Numpy, Matplotlib, Seaborn, Dash Sklearn, Scipy, Statsmodel, TensorFlow
 - **Big Data**: ETL/ELT Pipeline, MySQL, MongoDB, Apache Airflow;
 - **Data Science**: Data Analysis, Data Mining, Data Cleaning, Data Wrangling, Data Viz: Tableau, Power BI;
