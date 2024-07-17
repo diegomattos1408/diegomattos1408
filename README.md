@@ -6,6 +6,7 @@
 
 ### 📈 Power BI (DataViz)
 - [Power BI Images](https://github.com/diegomattos1408/Power-BI-Images)
+  - BI images about Data Analyses from the datasets: Bitcoin, DataSUS, Electric Vehicles, etc. 
 
 ### 💾 Repositories
 
