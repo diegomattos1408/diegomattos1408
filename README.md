@@ -1,6 +1,6 @@
 ![capa](capa.png)
 
-### Hi there 👋, I'm Diego de Mattos
+### Hello there 👋, I'm Diego de Mattos
 
 ### Welcome to My GitHub Profile!
 
