@@ -54,11 +54,11 @@
 
 ### 🛠 Skills & Expertise
 - **Programming Languages**: Python, R, SQL, JavaScript, HTML, CSS;
-- **Libraries**: Pandas, Numpy, Matplotlib, Seaborn, Dash Sklearn, Scipy, Statsmodel, TensorFlow
-- **Big Data**: ETL/ELT Pipeline, MySQL, MongoDB, Apache Airflow;
-- **Data Science**: Data Analysis, Data Mining, Data Cleaning, Data Wrangling, Data Viz: Tableau, Power BI;
+- **Libraries**: Pandas, Numpy, Matplotlib, Seaborn, Dash Sklearn, Scipy, Statsmodel, TensorFlow;
+- **Big Data**: ETL/ELT Pipeline, MySQL;
+- **Data Science**: Data Analysis, Data Mining, Data Cleaning, Data Wrangling, Data Viz: Power BI;
 - **Machine Learning**: Linear Regression, PCA, Factor Analysis, Clustering, Trees, Networks, Ensemble Models, Neural Networks, Text Mining, Sentiment Analysis, and NLP;
-- **Extra**: Fluent English, Excel, Scrum, Analytics, and Risk Management.
+- **Extra**: Fluent English, Excel, Scrum, Analytics.
 
 
 ### 📚 Courses
