@@ -71,7 +71,7 @@
 
 ### 📫 You Can Reach Me
 - **LinkedIn:** [Diego de Mattos](https://www.linkedin.com/in/diego-de-mattos-166417167/)
-- **Email:** diego.mattos.candido@alumni.usp.br
+- **Email:** diegomattos1408@gmail.com
 
 ![capa](footer.png)
 
