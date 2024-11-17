@@ -39,13 +39,14 @@
   - Libraries: Pandas, Matplotlib, Seaborn, Factor_analyzer, Pingouin, Statsmodels, Scikit-learn, Scipy, Tensor-Flow.
   
 ### 🎓 Academic Background
-- **MBA in Data Science and Analytics** from the University of São Paulo (2023 - 2024)
-- **Bachelor's Degree in Physics** from the University of São Paulo (2012 - 2017)
+- **Specialization in Data Engineering and Big data** from the University of São Paulo POLI (2025 - 2027)
+- **MBA in Data Science and Analytics** from the University of São Paulo Esalq (2023 - 2024)
+- **Bachelor's Degree in Physics** from the University of São Paulo IFUSP (2012 - 2017)
 - **Extension Courses** at the University of São Paulo:
-  - Introduction to Computer Science with Python (Parts 1 & 2) (2021)
-  - Big Data (2021)
-  - Introduction to Machine Learning with Python (2023)
-  - Fundamentals of Statistics, Introduction to R Software, and Machine Learning (2023)
+  - Introduction to Computer Science with Python (Parts 1 & 2) IME (2021)
+  - Big Data POLI (2021)
+  - Introduction to Machine Learning with Python Esalq 2023)
+  - Fundamentals of Statistics, Introduction to R Software, and Machine Learning Esalq (2023)
 
 ### 💼 Professional Training
 - **Google Data Analytics** (2022)
@@ -53,12 +54,12 @@
 - **IBM Data Science** (2023)
 
 ### 🛠 Skills & Expertise
-- **Programming Languages**: Python, R, SQL, JavaScript, HTML, CSS;
+- **Programming Languages**: Python, R, SQL, JavaScript, HTML, CSS, Git;
 - **Libraries**: Pandas, Numpy, Matplotlib, Seaborn, Dash Sklearn, Scipy, Statsmodel, TensorFlow;
-- **Big Data**: ETL/ELT Pipeline, MySQL;
+- **Big Data**: ETL/ELT Pipeline, MySQL; Apache Spark;
 - **Data Science**: Data Analysis, Data Mining, Data Cleaning, Data Wrangling, Data Viz: Power BI;
 - **Machine Learning**: Linear Regression, PCA, Factor Analysis, Clustering, Trees, Networks, Ensemble Models, Neural Networks, Text Mining, Sentiment Analysis, and NLP;
-- **Extra**: Fluent English, Excel, Scrum, Analytics.
+- **Extra**: Fluent English, Excel, Analytics.
 
 
 ### 📚 Courses
