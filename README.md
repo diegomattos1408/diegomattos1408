@@ -28,6 +28,9 @@
 - [Exoplanets EDA ML](https://github.com/diguitarrista/Exoplanets-EDA-ML-Python)
   - Machine Learning: Random Forest.
   - Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn.
+- [GenAI Tiny LLM Model](https://github.com/diegomattos1408/TinyLLM-GPT2)
+  - LLM Model: Distilgpt2.
+  - Libraires: transformers, datasets
 - [Netflix EDA](https://github.com/diguitarrista/Netflix-Titles-EDA-Python)
   - Libraries: Pandas, Matplotlib, Seaborn, Scikit-learn, TextBlob.
 - [Python](https://github.com/diguitarrista/Python-Basics-Projects)
