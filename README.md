@@ -25,6 +25,8 @@
 - [DataSUS EDA Dashboard](https://github.com/diguitarrista/DataSUS-EDA-Python)
   - Libraries: Pandas, Numpy, Matplotlib, Dash, GeoPandas, Pyspark, SQLite3
   - Dashboards: Dash and BI
+- [Desafios Técnicos](https://github.com/diegomattos1408/desafios-tecnicos)
+  - EDA, Machine Learning, MLflow. 
 - [Exoplanets EDA ML](https://github.com/diguitarrista/Exoplanets-EDA-ML-Python)
   - Machine Learning: Random Forest.
   - Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn.
